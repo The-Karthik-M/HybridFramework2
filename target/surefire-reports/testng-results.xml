@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-19T18:07:51 IST" name="Suite" finished-at="2025-06-19T18:08:21 IST" duration-ms="30124">
+    <groups>
+    </groups>
+    <test started-at="2025-06-19T18:07:51 IST" name="Test" finished-at="2025-06-19T18:08:21 IST" duration-ms="30124">
+      <class name="com.testScripts.addToCart">
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.testScripts.addToCart@78aa1f72]" started-at="2025-06-19T18:08:03 IST" name="configBM" finished-at="2025-06-19T18:08:08 IST" duration-ms="4752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="addToCartTest()[pri:0, instance:com.testScripts.addToCart@78aa1f72]" started-at="2025-06-19T18:08:08 IST" name="addToCartTest" finished-at="2025-06-19T18:08:15 IST" duration-ms="6471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.testScripts.addToCart@78aa1f72]" started-at="2025-06-19T18:08:15 IST" name="configAM" finished-at="2025-06-19T18:08:16 IST" duration-ms="1418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+      </class> <!-- com.testScripts.addToCart -->
+      <class name="com.testScripts.homepageVerify">
+        <test-method is-config="true" signature="configBT()[pri:0, instance:com.testScripts.homepageVerify@205d38da]" started-at="2025-06-19T18:07:51 IST" name="configBT" finished-at="2025-06-19T18:07:55 IST" duration-ms="4173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.testScripts.homepageVerify@205d38da]" started-at="2025-06-19T18:07:55 IST" name="configBM" finished-at="2025-06-19T18:08:00 IST" duration-ms="4670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="verifyHomepageTest()[pri:0, instance:com.testScripts.homepageVerify@205d38da]" started-at="2025-06-19T18:08:00 IST" name="verifyHomepageTest" finished-at="2025-06-19T18:08:02 IST" duration-ms="1691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.testScripts.homepageVerify@205d38da]" started-at="2025-06-19T18:08:02 IST" name="configAM" finished-at="2025-06-19T18:08:03 IST" duration-ms="1467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="ConfigAT()[pri:0, instance:com.testScripts.homepageVerify@205d38da]" started-at="2025-06-19T18:08:16 IST" name="ConfigAT" finished-at="2025-06-19T18:08:21 IST" duration-ms="5392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAT -->
+      </class> <!-- com.testScripts.homepageVerify -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
